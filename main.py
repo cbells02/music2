@@ -7,7 +7,7 @@ from mutagen.id3 import ID3
 
 pygame.init()
 
-listofsong = []
+listofsong = [9]
 
 index = 0
 
